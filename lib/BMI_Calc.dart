@@ -53,7 +53,7 @@ class _BmiCalculatorState extends State<BmiCalculator> {
                           mainAxisAlignment: MainAxisAlignment.center,
                           children: [
                             Image(
-                              image: AssetImage('assets/Images/tramb.png'),
+                              image: AssetImage('assets/Images/man.png'),
                               height:100 ,width: 100,
                             ),
                             SizedBox(height: 15,),
@@ -85,7 +85,7 @@ class _BmiCalculatorState extends State<BmiCalculator> {
                         child: Column(
                           mainAxisAlignment: MainAxisAlignment.center,
                           children: [
-                            Image(image: AssetImage('assets/Images/anglena.png'),
+                            Image(image: AssetImage('assets/Images/woman.png'),
                             height: 100,width: 100,),
                             SizedBox(height: 15,),
                             Text('Female',
